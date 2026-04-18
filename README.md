@@ -17,8 +17,6 @@ Interested in building practical systems involving large language models, retrie
 
 ## Work
 
-## Work
-
 - Designed and deployed a **real-time voice-based support agent** with low-latency streaming (16 kHz PCM), handling order lookup, refunds, and complaint workflows via LLM tool calling.  
   Implemented WebSocket-based bidirectional audio streaming, live transcript updates, and backend policy logic (refund windows, escalation rules) with production deployment on GCP.
 
