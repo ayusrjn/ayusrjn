@@ -1,56 +1,72 @@
+<div align="center">
+
 # Ayush Ranjan
 
-<img align="right" src="koi/koi.gif" width="256" alt="My koi, redrawn nightly from my GitHub activity" />
+<a href="https://ayusrjn.github.io">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=4A90D9&center=true&vCenter=true&width=560&lines=LLMs+%C2%B7+RAG+%C2%B7+Agent-based+systems;Building+practical+AI+systems;Voice+agents%2C+retrieval+%26+data+pipelines" alt="LLMs · RAG · Agent-based systems" />
+</a>
 
-[![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square)]()
-[![C++](https://img.shields.io/badge/C++-Standard-informational?style=flat-square)]()
-[![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square)]()
-[![GCP](https://img.shields.io/badge/GCP-Cloud-4285F4?style=flat-square)]()
-[![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat-square)]()
-[![Transformers](https://img.shields.io/badge/Transformers-NLP-yellow?style=flat-square)]()
-[![RAG](https://img.shields.io/badge/RAG-Systems-lightgrey?style=flat-square)]()
+Undergraduate in Computer Science, focused on **Artificial Intelligence** and **Data Science**.<br/>
+I build practical systems around large language models, retrieval, and data pipelines.
 
-Undergraduate student in Computer Science, with a focus on Artificial Intelligence and Data Science.  
-Interested in building practical systems involving large language models, retrieval, and data pipelines.
+<a href="https://ayusrjn.github.io"><img src="https://img.shields.io/badge/Portfolio-ayusrjn.github.io-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:ayushraanjan@gmail.com"><img src="https://img.shields.io/badge/Email-ayushraanjan%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
----
+<br/><br/>
 
-## Work
+<img src="koi/koi.gif" width="512" alt="My koi, redrawn every night from my GitHub activity" />
 
-- Designed and deployed a **real-time voice-based support agent** with low-latency streaming (16 kHz PCM), handling order lookup, refunds, and complaint workflows via LLM tool calling.  
-  Implemented WebSocket-based bidirectional audio streaming, live transcript updates, and backend policy logic (refund windows, escalation rules) with production deployment on GCP.
+<sub><i>my koi · redrawn every night from my GitHub activity · its colours come from my languages, its size from my contributions</i></sub>
 
-- Built a **coding agent system** supporting file operations, command execution, and repository-level search for multi-step software tasks.  
-  Implemented persistent memory (`todo.md`, `scratchpad.md`, `transcript.md`), sliding-window context management, and grep-based retrieval to reduce token usage and improve scalability.
+</div>
 
-- Engineered **time-aware data pipelines** for sequential and multimodal data, enabling temporal indexing, event ordering, and trend analysis in user-generated content.  
-  Modified backend schema and ingestion workflows to support time-dependent querying and downstream modeling.
+<br/>
 
-- Developed a **transformer-based sentiment analysis service (DistilBERT)** for tracking narrative evolution over time.  
-  Designed inference pipelines for continuous sentiment monitoring and integrated outputs into higher-level narrative analysis systems.
----
+## ⟡ Work
 
-## Interests
+**🎙️ Real-time voice support agent**<br/>
+Low-latency streaming voice agent (16 kHz PCM) that handles order lookup, refunds, and complaints through LLM tool calling. WebSocket-based bidirectional audio, live transcripts, and backend policy logic (refund windows, escalation rules), deployed in production on GCP.
 
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Agent-based systems
-- Efficient context and memory handling
-- Data engineering for AI systems
+**🧑‍💻 Coding agent system**<br/>
+Multi-step software agent with file operations, command execution, and repository-level search. Persistent memory (`todo.md`, `scratchpad.md`, `transcript.md`), sliding-window context management, and grep-based retrieval to cut token usage and scale to larger repos.
 
----
+**⏱️ Time-aware data pipelines**<br/>
+Pipelines for sequential and multimodal data with temporal indexing, event ordering, and trend analysis over user-generated content. Reworked backend schema and ingestion to support time-dependent queries and downstream modelling.
 
-## Technical Skills
+**📈 Transformer sentiment service**<br/>
+DistilBERT-based service that tracks how narratives evolve over time, with inference pipelines for continuous sentiment monitoring feeding higher-level narrative analysis.
 
-**Languages:** Python, C++  
-**Frameworks/Tools:** Transformers, LangChain, LlamaIndex  
-**Systems:** FastAPI, Docker, GCP, WebSockets  
-**Data:** PostgreSQL, ETL pipelines, vector search (FAISS, Chroma)
+<br/>
 
----
+## ⟡ Interests
 
-## Contact
+<table>
+  <tr>
+    <td align="center" width="20%">🧠<br/><sub><b>Large Language Models</b></sub></td>
+    <td align="center" width="20%">🔎<br/><sub><b>Retrieval-Augmented Generation</b></sub></td>
+    <td align="center" width="20%">🤖<br/><sub><b>Agent-based systems</b></sub></td>
+    <td align="center" width="20%">🗂️<br/><sub><b>Context & memory handling</b></sub></td>
+    <td align="center" width="20%">🛠️<br/><sub><b>Data engineering for AI</b></sub></td>
+  </tr>
+</table>
 
-GitHub: https://github.com/ayusrjn  
-Portfolio: https://ayusrjn.github.io  
-Email: ayushraanjan@gmail.com
+<br/>
+
+## ⟡ Toolkit
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,fastapi,docker,gcp,postgres&theme=dark" alt="Python, C++, FastAPI, Docker, GCP, PostgreSQL" />
+</p>
+
+| | |
+|---|---|
+| **Languages** | Python · C++ |
+| **AI / ML** | Transformers · LangChain · LlamaIndex |
+| **Systems** | FastAPI · Docker · GCP · WebSockets |
+| **Data** | PostgreSQL · ETL pipelines · FAISS · Chroma |
+
+<br/>
+
+<div align="center">
+  <sub>Thanks for swimming by.</sub>
+</div>
