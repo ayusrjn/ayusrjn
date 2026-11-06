@@ -1,5 +1,7 @@
 # Ayush Ranjan
 
+<img align="right" src="koi/koi.gif" width="256" alt="My koi, redrawn nightly from my GitHub activity" />
+
 [![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square)]()
 [![C++](https://img.shields.io/badge/C++-Standard-informational?style=flat-square)]()
 [![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square)]()
