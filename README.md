@@ -58,12 +58,12 @@ DistilBERT-based service that tracks how narratives evolve over time, with infer
   <img src="https://skillicons.dev/icons?i=python,cpp,fastapi,docker,gcp,postgres&theme=dark" alt="Python, C++, FastAPI, Docker, GCP, PostgreSQL" />
 </p>
 
-| | |
-|---|---|
-| **Languages** | Python · C++ |
-| **AI / ML** | Transformers · LangChain · LlamaIndex |
-| **Systems** | FastAPI · Docker · GCP · WebSockets |
-| **Data** | PostgreSQL · ETL pipelines · FAISS · Chroma |
+<table>
+  <tr><td><b>Languages</b></td><td>Python · C++</td></tr>
+  <tr><td><b>AI / ML</b></td><td>Transformers · LangChain · LlamaIndex</td></tr>
+  <tr><td><b>Systems</b></td><td>FastAPI · Docker · GCP · WebSockets</td></tr>
+  <tr><td><b>Data</b></td><td>PostgreSQL · ETL pipelines · FAISS · Chroma</td></tr>
+</table>
 
 <br/>
 
