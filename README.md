@@ -1,7 +1,5 @@
 <div align="center">
 
-# Ayush Ranjan
-
 Undergraduate in Computer Science, focused on **Artificial Intelligence** and **Data Science**.<br/>
 I build practical systems around large language models, retrieval, and data pipelines.
 
